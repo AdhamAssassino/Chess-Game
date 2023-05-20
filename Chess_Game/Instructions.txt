@@ -1,4 +1,0 @@
-First once you run the code 
-
-If you want easy level -> write (minmax)
-If you want hard level -> write (alpha)
